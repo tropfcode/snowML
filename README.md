@@ -1,2 +1,2 @@
-# snowML
-Temporary location of snowML project
+# SnowML
+UW MSDS SnowML capstone project
